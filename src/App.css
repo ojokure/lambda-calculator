@@ -20,3 +20,49 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+ .display {
+      background: #323335;
+        }
+
+ .numbers {
+      display: flex;
+      border-radius: 50%;
+      background: #1c4378;
+      color: aliceblue;
+      padding: 5px;
+      width:50px;
+      height: 50px;
+      margin: 5px;
+
+  }
+
+  .layout{
+    display: flex;
+    justify-content: space-between;
+  }
+  .layoutContainer{
+      display: flex;
+      justify-content:space-between;
+  }
+  .specials {
+    display: flex;
+    border-radius: 50%;
+    background: #275d9c;
+    padding: 5px;
+    color: aliceblue;
+    width:50px;
+    height: 50px;
+    margin: 5px;
+
+}
+.operators {
+    display: flex;
+    border-radius: 50%;
+    background: #2a7292;
+    padding: 5px;
+    color: aliceblue;
+    width:50px;
+    height: 50px;
+    margin: 5px;
+
+}
